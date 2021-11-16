@@ -1,7 +1,7 @@
 # Metasploit Framework 6 in Termux
 ![GitLab Testing status](https://gitlab.com/gushmazuko/metasploit_in_termux/badges/master/pipeline.svg) ![GitHub Repo stars](https://img.shields.io/github/stars/gushmazuko/metasploit_in_termux?style=social) [![](https://img.shields.io/badge/GitLab-Mirror-succes?link=https://gitlab.com/gushmazuko/metasploit_in_termux)](https://gitlab.com/gushmazuko/metasploit_in_termux)
 
-![Metasploit 6 running](https://i.imgur.com/yLFQhvP.png)
+![Metasploit 6 running](http://imgur.com/a/19uDjGL.png)
 
 ## How to Install
 ### Auto
@@ -13,7 +13,7 @@ source <(curl -fsSL https://kutt.it/msf)
 ```bash
 pkg install wget
 
-wget https://raw.githubusercontent.com/gushmazuko/metasploit_in_termux/master/metasploit.sh
+wget https://github.com/Beelzebuuuuu/Matasploit
 
 chmod +x metasploit.sh
 
