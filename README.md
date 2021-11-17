@@ -11,9 +11,9 @@ source <(curl -fsSL https://kutt.it/msf)
 
 ### Manual
 ```bash
-pkg install wget
+pkg install git
 
-wget https://github.com/Beelzebuuuuu/Matasploit
+git clone https://github.com/Beelzebuuuuu/Matasploit
 
 chmod +x metasploit.sh
 
